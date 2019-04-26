@@ -1,5 +1,8 @@
 # simple
 
+simple is an Agile Software Development Approach and set of supporting components authored by Creative Technologist, George Freeney-Jones, to encourage a new generation of indy end-to-end Web Application Developers.
+
+
 Comprised of the following simple Project components:
 
 simple_UI_kit
